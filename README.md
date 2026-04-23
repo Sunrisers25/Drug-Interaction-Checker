@@ -3,7 +3,7 @@
 **Description:** A comprehensive Pharmacy Management System and Drug Interaction Checker serving as a centralized dashboard for managing pharmacy operations, verifying drug interactions, and tracking inventory and patient records.
 **Tech used:** Next.js 14, React 18, Tailwind CSS, Radix UI (shadcn/ui), React Hook Form, Zod, Lucide React, Recharts
 **GitHub:** [Insert GitHub Repository Link Here]
-**Live link:** [https://drug-interaction-checker-pearl.vercel.app](https://drug-interaction-checker-pearl.vercel.app)
+**Live link:** [View Live Demo](https://drug-interaction-checker-pearl.vercel.app)
 
 ---
 
